@@ -1,4 +1,2 @@
-# avanti_atividade01
-Atividade 01 de Avanti Bootcamp
-
-Guilherme Nogueira Batistette - guibaaa@gmail.com
+# Atividade Módulo 1 - Avanti Bootcamp
+Autor: Guilherme Nogueira Batistette - guibaaa@gmail.com
